@@ -1,0 +1,51 @@
+/**
+ * @name rounded discord
+ * @version 1.0.6.3
+ * @description A theme based on Google's Material Design
+ * @author CapnKitten
+ * @website http://github.com/CapnKitten
+ * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Material-Discord/css/source.css
+ * @donate https://paypal.me/capnkitten
+ * @invite jzJkA6Z
+ * @BDEditor Material Discord
+*/
+
+@import url('https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+
+:root {
+  --accent-hue: 227;
+  --accent-saturation: 70%;
+  --accent-lightness: 60%;
+  --accent-text-color: #fff;
+  --avatar-radius: 50%;
+  --undefined: 0;
+  --message-radius: 20px;
+  --message-padding-top: 10px;
+  --message-padding-side: 12px;
+  --undefined: 0;
+  --media-radius: 20px;
+  --undefined: 0;
+  --card-radius: 20px;
+  --card-radius-big: 20px;
+  --popout-radius: 10px;
+  --popout-radius-big: 20px;
+  --rs-small-spacing: 0px;
+  --rs-medium-spacing: 0px;
+  --rs-large-spacing: 0px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #00FF0A;
+  --rs-idle-color: #FFA500;
+  --rs-dnd-color: #FF0000;
+  --rs-offline-color: #5A5A5A;
+  --rs-streaming-color: #5E00FF;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
